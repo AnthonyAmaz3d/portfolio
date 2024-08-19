@@ -1,5 +1,5 @@
 import Header from './components/Header/header'
-import Section from './components/Section/section'
+import Section from './components/Home/home'
 import './App.css'
 
 function App() {

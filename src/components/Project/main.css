@@ -52,3 +52,29 @@
     line-height: 1.7;
     margin: auto;
 }
+
+@media(max-width:1285px){
+    .services-container {
+        padding-bottom: 7rem;
+        grid-template-columns: repeat(2,1fr);
+        margin: 0 5rem;
+    }
+}
+
+@media(max-width:991px){
+    .services{
+        padding-bottom: 7rem;
+    }
+    section {
+        padding: 10rem 3% 2rem;
+    }
+}
+
+@media(max-width:895px){
+    .services h2 {
+        margin-bottom: 3rem;
+    }
+    .services-container{
+        grid-template-columns: repeat(1,1fr);
+    }
+}

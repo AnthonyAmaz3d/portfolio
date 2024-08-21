@@ -13,11 +13,11 @@
     --bg-color: #080808;
     --second-bg-color: #131313;
     --text-color: #ffff;
-    --main-color: #00ffee;
+    --main-color: #7219d8;
 }
 
 html{
-    font-size: 60%;
+    font-size: 62%;
     overflow-x: hidden;
 }
 

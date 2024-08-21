@@ -4,7 +4,7 @@ const Header = () => {
     return(
         <header className="header">
             <a href="#home" className="logo">Anthony
-            <span> Maia Dolberth</span></a>
+            <span> M. Dolberth</span></a>
 
             <i className="bx bx-menu" id="menu-icon"></i>
 

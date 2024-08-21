@@ -4,11 +4,10 @@ const Section = () => {
     return (
         <section className="home" id="home">
             <div className="home-content">
-                <h1>Hi, It's <span>Anthony</span> </h1>
-                <h3 className="text-animation"> I'm a <span></span> </h3>
+                <h1>Olá, eu sou o <span>Anthony</span> </h1>
+                <h3 className="text-animation"> Eu sou <span></span> </h3>
                 <p>
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quam quia exercitationem facere cupiditate architecto excepturi, 
-                    dolores aperiam reiciendis error atque animi quibusdam aliquam corrupti! Error suscipit dolore facere voluptatem quam.
+                    Sou desenvolvedor FullStack com uma grande curiosidade em todas as áreas de desensolvimento, de back-end até programação de jogos, gosto muito de mangás e jogos e ainda mais da linguagem de programação Java ☕ 
                 </p>
                 <div className="social-icons">
                     <a href="#">  <i className="bx bxl-linkedin"></i>  </a>
@@ -23,7 +22,7 @@ const Section = () => {
                 </div>
             </div>
                 <div className="home-img">
-                    <img src="/src/assets/image.jpeg" alt="" />
+                    <img src="/src/assets/image.png" alt="" />
                 </div>
         </section>
     )

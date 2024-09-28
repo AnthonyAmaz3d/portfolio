@@ -22,7 +22,7 @@ const Section = () => {
                 </div>
             </div>
                 <div className="home-img">
-                    <img src="/src/assets/image.png" alt="" />
+                    <img src="https://github.com/AnthonyAmaz3d.png" alt="" />
                 </div>
         </section>
     )
